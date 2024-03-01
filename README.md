@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SravanthiAnnam201
 - 👀 I’m interested in AI and ML projects
-- 🌱 I’m currently learning C/C++. Python, JavaScript
+- 🌱 I’m currently working and learning C/C++. Python, JavaScript
 - 💞️ I’m looking to collaborate on C/C++ projects
 - 📫 How to reach me ...email me @ sravanthi201201@gmail.com
 
